@@ -9,7 +9,6 @@ This Python script provides a simple GUI application for document retrieval usin
 * tkinter
 
 ## Usage
-*	If you want to use the Jupyter Notebook file, follow the instructions given in it. If you aren’t able to run the Jupyter Notebook file, follow the instructions below.
 *	Download the script and the documents in the testcase files.
 *	Run the script.
 *	The GUI application will open.
@@ -44,3 +43,6 @@ This Python script provides a simple GUI application for document retrieval usin
 *	Ensure that the necessary libraries (re, math, and tkinter) are installed and available for your Python environment.
 *	If you encounter issues while loading files, make sure the files are in the correct format (plain text) and accessible by the application.
 
+## Future Developments
+*	This project was done as an assignment in my university for the course Information Extraction and Retrieval and as a result was made without using a proper framework.
+*	This project will soon be implemented using a different framework such as PyQt or Django.
